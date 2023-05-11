@@ -1,0 +1,5 @@
+Provide me with 20 color schemes utilizing the previous CSS custom properties you created. They should be in the form of comma separated javascript objects, where you set each custom property name to a new color value, for example: 
+{"--property1": "#1f1f1f", "--property2": "#000"},
+{"--property1": "#1f1f1f", "--property2": "#000"}, and so on..
+
+Ensure that all color schemes you utilize adhere to good color design principles, and make sure any text adheres to the WCAG 2.0 color contrast guidelines. One of the color schemes should be a dark mode where the body background is dark with light text. One should also be 100% black and white with no grays. Additionally, some color schemes can be monochromatic, others analogous, etc. Ensure that no two color schemes are very similar.

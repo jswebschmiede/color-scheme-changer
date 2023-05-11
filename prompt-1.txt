@@ -1,0 +1,9 @@
+I am going to provide you with the HTML and CSS for my project, and I need you to do the following:
+
+1. Extract all color values from the CSS, and place them into the :root selector at the top of the file with CSS custom properties. This will be the "light mode" version of the design. You should extract these values from the following CSS properties: background, background-color, color, stroke, border, box-shadow, and fill. You should also replace those color values with the corresponding CSS custom properties you create.
+
+2. You do not need to repeat any code that's unchanged, based on the following code. Only include new code. You can use a comment as a placeholder to reference the location of other unchanged code.
+
+Here is the CSS:
+
+(Replace this line with the CSS)
